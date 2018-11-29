@@ -1,3 +1,1 @@
-"This file is another test"
- 
-2nd change 
+This was just a project to refresh myself on the basics of github and git commands 
